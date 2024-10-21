@@ -28,13 +28,13 @@ This is an archive of all of my completed projects, please feel free to interact
 |------|-------|-------------|
 |  Digital and Analog Piano | A piano using either a 555 timer or a microcontroller to make musical notes, this is driven by a custom-made power-supply. | Electronics and Firmware (C) |
 | Line Following Robot | A robot that can follow black lines on a while surface. | Electronics and Firmware (C) |
+| [C# GUI Lab Board Controller](https://github.com/JosiahBLB/esd_a1_pc_app) | Interfaces with the AUT lab board to set and read microcontroller peripherals over serial. | Software (C#) |
+| [C Lab Board](https://github.com/JosiahBLB/esd_a1_mc) | A program written in C which is flashed onto the Atmel AT90USB1287 microcontroller. It receives commands over serial, controls the peripherals and responds with state information. | Firmware (C) |
+| MATLAB FEA Simulator | Simulates structural members using the finite element method. | Software (MATLAB) |
+| [Q-Learning Taxi Game](https://github.com/JosiahBLB/taxi_game_q_learning) | Taxi game solved with Q-learning The Taxi-V3 is the original OpenGym taxi environment. | Software (Python) |
 | Hex Key Assembly | A bench-top hex-key holder. | Mechanical Design |
 | Mini Ramp | A model made for a friend who wanted to build a mini-ramp for skateboarding. | Mechanical Design |
 | Rangehood Cowling| A custom-made cowling for a rangehood. | Mechanical Design |
 | Ute Sports Lid | An aluminum sports lid for keeping my tools dry and safely locked away. | Mechanical Design and Metal Work |
 | [Toolbox](https://grabcad.com/library/final-project-electricians-tool-tote-1) | A concept design for a wheeled toolbox for easier transportation of tools onto site. | Mechanical Design |
 | Camper Van Build | Converted a 1994 Toyota Hiace Supercustom into a campervan being self-contained with a separate house battery, inverter and running water. | Electrical, Electronics, Woodworking and Mechanical Design |
-| MATLAB FEA Simulator | Simulates structural members using the finite element method. | Software (MATLAB) |
-| [C# GUI Lab Board Controller](https://github.com/JosiahBLB/esd_a1_pc_app) | Interfaces with the AUT lab board to set and read microcontroller peripherals over serial. | Software (C#) |
-| [C Lab Board](https://github.com/JosiahBLB/esd_a1_mc) | A program written in C which is flashed onto the Atmel AT90USB1287 microcontroller. It receives commands over serial, controls the peripherals and responds with state information. | Firmware (C) |
-| [Q-Learning Taxi Game](https://github.com/JosiahBLB/taxi_game_q_learning) | Taxi game solved with Q-learning The Taxi-V3 is the original OpenGym taxi environment. | Software (Python) |
